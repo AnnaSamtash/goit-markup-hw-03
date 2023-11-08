@@ -5,7 +5,6 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #fff;
-    width: 1440px;
 }
 
 ul {
@@ -42,7 +41,7 @@ img {
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-left: 141px;
+    margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
 }
@@ -340,7 +339,7 @@ img {
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
-    margin-left: 141px;
+    margin-left: auto;
     margin-right: auto;
     box-sizing: border-box;
 }
